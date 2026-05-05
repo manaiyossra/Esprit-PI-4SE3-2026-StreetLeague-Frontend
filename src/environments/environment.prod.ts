@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  baseUrl: 'http://localhost:8089/SpringSecurity'
+  baseUrl: 'https://appbackend1-fca2e6gyhudga0a5.francecentral-01.azurewebsites.net/SpringSecurity'
 };
